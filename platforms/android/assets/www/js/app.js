@@ -1,10 +1,4 @@
-var resultDiv;
 
-document.addEventListener("deviceready", init, false);
-function init() {
-	document.querySelector("#startScan").addEventListener("touchend", startScan, false);
-	resultDiv = document.querySelector("#results");
-}
 
 function startScan() {
 
@@ -13,6 +7,7 @@ function startScan() {
 			var s = "Result: " + result.text + "<br/>" +
 			"Format: " + result.format + "<br/>" +
 			"Cancelled: " + result.cancelled;
+			var resultDiv = document.getElementById("results");
 			resultDiv.innerHTML = s;
 		}, 
 		function (error) {
