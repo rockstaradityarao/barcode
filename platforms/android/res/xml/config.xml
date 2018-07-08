@@ -38,12 +38,12 @@
     <feature name="BarcodeScanner">
         <param name="android-package" value="com.phonegap.plugins.barcodescanner.BarcodeScanner" />
     </feature>
-    <name>helloworld</name>
+    <name>Barcode Scanner</name>
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        Rock Star Aditya Rao
     </author>
     <content src="index.html" />
     <access origin="*" />
