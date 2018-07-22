@@ -1,4 +1,3 @@
-<!--
 <!DOCTYPE html>
 <html>
     <head>
@@ -6,34 +5,109 @@
         <meta name="format-detection" content="telephone=no" />
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
 		
-		<link rel="stylesheet" href="https://unpkg.com/onsenui/css/onsenui.css">
-		<link rel="stylesheet" href="https://unpkg.com/onsenui/css/onsen-css-components.min.css">
+		<link rel="stylesheet" href="css/onsenui.css">
+		<link rel="stylesheet" href="css/onsen-css-components.css">
 		
  		<script type="text/javascript" src="cordova.js"></script>
-		<script src="https://unpkg.com/onsenui/js/onsenui.min.js"></script>
+		<script src="js/onsenui.js"></script>
         <script type="text/javascript" src="js/app.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
     </head>
 
     <body>
+		<ons-splitter>
+		  <ons-splitter-side id="menu" side="left" width="220px" collapse swipeable>
+			<ons-page>
+			  <ons-list>
+				<ons-list-item onclick="fn.load('associate.html')" tappable>
+				  Associate
+				</ons-list-item>
+				<ons-list-item onclick="fn.load('settings.html')" tappable>
+				  Disassociate
+				</ons-list-item>
+				<ons-list-item onclick="fn.load('dashboard.html')" tappable>
+				  Dashboard
+				</ons-list-item>
+				<ons-list-item onclick="fn.load('alerts.html')" tappable>
+				  Alerts
+				</ons-list-item>
+			  </ons-list>
+			</ons-page>
+		  </ons-splitter-side>
+		  <ons-splitter-content id="content" page="associate.html"></ons-splitter-content>
+		</ons-splitter>
+		
+		<template id="associate.html">
+		  <ons-page>
+			<ons-toolbar>
+			  <div class="left">
+				<ons-toolbar-button onclick="fn.open()">
+				  <ons-icon icon="md-menu"></ons-icon>
+				</ons-toolbar-button>
+			  </div>
+			  <div class="center">
+				Associate
+				
+			  </div>			  
+			  
+			</ons-toolbar>
+			<div class="center">
+				<p>Google</p>
+				<splash src="\githome\barcode~google.png" width="320" height="480"/>
+			</div>
+			<ons-button onclick="startScan(this);">Scan Device</ons-button>
+		  </ons-page>
+		</template>
 
+		<template id="settings.html">
+		  <ons-page>
+			<ons-toolbar>
+			  <div class="left">
+				<ons-toolbar-button onclick="fn.open()">
+				  <ons-icon icon="md-menu"></ons-icon>
+				</ons-toolbar-button>
+			  </div>
+			  <div class="center">
+				Disassociate
+			  </div>
+			</ons-toolbar>
+		  </ons-page>
+		</template>
+		
+		<template id="dashboard.html">
+		  <ons-page>
+			<ons-toolbar>
+			  <div class="left">
+				<ons-toolbar-button onclick="fn.open()">
+				  <ons-icon icon="md-menu"></ons-icon>
+				</ons-toolbar-button>
+			  </div>
+			  <div class="center">
+				Dashboard
+			  </div>
+			</ons-toolbar>
+		  </ons-page>
+		</template>
+		
+		<template id="alerts.html">
+		  <ons-page>
+			<ons-toolbar>
+			  <div class="left">
+				<ons-toolbar-button onclick="fn.open()">
+				  <ons-icon icon="md-menu"></ons-icon>
+				</ons-toolbar-button>
+			  </div>
+			  <div class="center">
+				Alerts
+			  </div>
+			</ons-toolbar>
+				<ons-list>
+					<ons-list-item>Alert 1</ons-list-item>
+					<ons-list-item>Alert 2</ons-list-item>
+				</ons-list>
+		  </ons-page>
+		</template>
 	
-	<ons-button onclick="startScan();">Click Me</ons-button>
-    <div id="results"></div>
         
     </body>
-</html>
--->
-
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel="stylesheet" href="css/onsenui.css">
-	<link rel="stylesheet" href="css/onsen-css-components.css">
-	<script src="js/onsenui.js"></script>
-	<script type="text/javascript" src="js/index.js"></script>
-	<script type="text/javascript" src="js/app.js"></script>
-</head>
-<body>
-  <ons-button onclick="ons.notification.alert('Hello World!')">Click Me</ons-button>
-</body>
 </html>
