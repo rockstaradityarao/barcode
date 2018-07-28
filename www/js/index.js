@@ -31,3 +31,11 @@ var login = function() {
     ons.notification.alert('Incorrect username or password.');
   }
 };
+
+document.addEventListener("deviceready", function() {
+  var div = document.getElementById("map_canvas");
+ 
+  // Initialize the map view
+  var map = plugin.google.maps.Map.getMap(div);
+ 
+}, false);

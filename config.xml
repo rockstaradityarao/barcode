@@ -106,12 +106,12 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <plugin name="phonegap-plugin-barcodescanner" spec="https://github.com/wildabeast/BarcodeScanner.git" />
-    <engine name="android" spec="^6.2.2" />
-    <engine name="browser" spec="^5.0.3" />
     <plugin name="cordova-plugin-googlemaps" spec="^2.3.8">
         <variable name="API_KEY_FOR_ANDROID" value="AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8" />
         <variable name="API_KEY_FOR_IOS" value="AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8" />
         <variable name="PLAY_SERVICES_VERSION" value="15.0.1" />
         <variable name="ANDROID_SUPPORT_V4_VERSION" value="26.1.0" />
     </plugin>
+    <engine name="android" spec="^6.2.2" />
+    <engine name="browser" spec="^5.0.3" />
 </widget>
