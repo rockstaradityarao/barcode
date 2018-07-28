@@ -34,8 +34,30 @@
 			  </ons-list>
 			</ons-page>
 		  </ons-splitter-side>
-		  <ons-splitter-content id="content" page="associate.html"></ons-splitter-content>
+		  <ons-splitter-content id="content" page="splashscreen.html"></ons-splitter-content>
 		</ons-splitter>
+		
+		<template id="splashscreen.html">
+			<ons-page id="splash">
+				<img src="rfxcel_logo.png">
+			</ons-page>
+		</template>
+		
+		<template id="login.html">
+			<ons-page>
+			  <div style="text-align: center; margin-top: 30px;">
+				<p>
+				  <ons-input id="username" modifier="underbar" placeholder="Username" float></ons-input>
+				</p>
+				<p>
+				  <ons-input id="password" modifier="underbar" type="password" placeholder="Password" float></ons-input>
+				</p>
+				<p style="margin-top: 30px;">
+				  <ons-button onclick="login()">Sign in</ons-button>
+				</p>
+			  </div>
+			</ons-page>
+		</template>
 		
 		<template id="associate.html">
 		  <ons-page>
