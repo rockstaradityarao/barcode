@@ -451,7 +451,7 @@ The native map view is faster, use less network usage, display 3D views, and eve
         <resource-file src="src/ios/strings/pgm_Localizable_vi.json" target="pgm_Localizable_vi.json" />
 
         <config-file target="*-Info.plist" parent="Google Maps API Key">
-            <string>AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8</string>
+            <string>(API_KEY_FOR_IOS)</string>
         </config-file>
 
         <config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">

@@ -7,6 +7,9 @@
     "files": {}
   },
   "installed_plugins": {
+    "cordova-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.phonegap.helloworld"
+    },
     "cordova-plugin-battery-status": {
       "PACKAGE_NAME": "com.phonegap.helloworld"
     },
@@ -25,6 +28,9 @@
     "cordova-plugin-globalization": {
       "PACKAGE_NAME": "com.phonegap.helloworld"
     },
+    "cordova-plugin-googlemaps": {
+      "PACKAGE_NAME": "com.phonegap.helloworld"
+    },
     "cordova-plugin-inappbrowser": {
       "PACKAGE_NAME": "com.phonegap.helloworld"
     },
@@ -38,9 +44,6 @@
       "PACKAGE_NAME": "com.phonegap.helloworld"
     },
     "phonegap-plugin-barcodescanner": {
-      "PACKAGE_NAME": "com.phonegap.helloworld"
-    },
-    "cordova-plugin-googlemaps": {
       "PACKAGE_NAME": "com.phonegap.helloworld"
     }
   },

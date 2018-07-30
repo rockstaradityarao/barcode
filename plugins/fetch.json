@@ -98,7 +98,15 @@
   "phonegap-plugin-barcodescanner": {
     "source": {
       "type": "registry",
-      "id": "https://github.com/wildabeast/BarcodeScanner.git"
+      "id": "phonegap-plugin-barcodescanner@8.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-barcodescanner": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-barcodescanner"
     },
     "is_top_level": true,
     "variables": {}
@@ -110,8 +118,7 @@
     },
     "is_top_level": true,
     "variables": {
-      "API_KEY_FOR_ANDROID": "AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8",
-      "API_KEY_FOR_IOS": "AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8"
+      "API_KEY_FOR_ANDROID": "AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8"
     }
   }
 }

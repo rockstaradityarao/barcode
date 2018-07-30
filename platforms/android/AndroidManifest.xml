@@ -32,8 +32,10 @@
         </activity>
         <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8" />
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+        <activity android:clearTaskOnLaunch="true" android:configChanges="orientation|keyboardHidden|screenSize" android:exported="false" android:name="com.google.zxing.client.android.CaptureActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:label="Share" android:name="com.google.zxing.client.android.encode.EncodeActivity" />
     </application>
-    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="25" />
+    <uses-sdk android:maxSdkVersion="21" android:minSdkVersion="19" android:targetSdkVersion="20" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -48,4 +50,5 @@
     <uses-feature android:name="android.hardware.camera" android:required="false" />
     <uses-feature android:glEsVersion="0x00020000" android:required="true" />
     <uses-feature android:name="android.hardware.location" />
+    <uses-feature android:name="android.hardware.camera" android:required="true" />
 </manifest>

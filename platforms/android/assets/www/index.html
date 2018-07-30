@@ -12,6 +12,7 @@
 		<script src="js/onsenui.js"></script>
         <script type="text/javascript" src="js/app.js"></script>
 		<script type="text/javascript" src="js/index.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8"></script>
     </head>
 
     <body>
@@ -34,7 +35,7 @@
 			  </ons-list>
 			</ons-page>
 		  </ons-splitter-side>
-		  <ons-splitter-content id="content" page="splashscreen.html"></ons-splitter-content>
+		  <ons-splitter-content id="content" page="dashboard.html"></ons-splitter-content>
 		</ons-splitter>
 		
 		<template id="splashscreen.html">
@@ -91,7 +92,7 @@
 		</template>
 		
 		<template id="dashboard.html">
-		  <ons-page>
+		  <ons-page id="dashboard">
 			<ons-toolbar>
 			  <div class="left">
 				<ons-toolbar-button onclick="fn.open()">
@@ -101,8 +102,15 @@
 			  <div class="center">
 				Dashboard
 			  </div>
+			  
+			  
 			</ons-toolbar>
+			
+			<div id="map_canvas" class="background">
+				
+			</div>
 		  </ons-page>
+		  
 		</template>
 		
 		<template id="alerts.html">

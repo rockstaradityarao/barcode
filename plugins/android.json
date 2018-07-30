@@ -38,6 +38,7 @@
       "PACKAGE_NAME": "com.phonegap.helloworld"
     },
     "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
       "PACKAGE_NAME": "com.phonegap.helloworld"
     },
     "cordova-plugin-googlemaps": {
@@ -48,9 +49,6 @@
     }
   },
   "dependent_plugins": {
-    "cordova-plugin-compat": {
-      "PACKAGE_NAME": "com.phonegap.helloworld"
-    },
     "cordova-plugin-file": {
       "PACKAGE_NAME": "com.phonegap.helloworld"
     }

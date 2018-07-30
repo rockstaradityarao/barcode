@@ -6,6 +6,14 @@ document.addEventListener('init', function(event) {
 	}
 });
 
+document.addEventListener('show', function(event) {
+	var page = event.target;
+	console.log('show page: ' + page.id);
+	if (page.id == "dashboard") {
+		createMap();
+	}
+});
+
 window.fn = {};
 
 window.fn.open = function() {
@@ -32,10 +40,11 @@ var login = function() {
   }
 };
 
-document.addEventListener("deviceready", function() {
+function createMap() {
+
   var div = document.getElementById("map_canvas");
  
   // Initialize the map view
   var map = plugin.google.maps.Map.getMap(div);
  
-}, false);
+};

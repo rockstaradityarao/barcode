@@ -34,7 +34,7 @@
 			  </ons-list>
 			</ons-page>
 		  </ons-splitter-side>
-		  <ons-splitter-content id="content" page="splashscreen.html"></ons-splitter-content>
+		  <ons-splitter-content id="content" page="dashboard.html"></ons-splitter-content>
 		</ons-splitter>
 		
 		<template id="splashscreen.html">
@@ -91,7 +91,7 @@
 		</template>
 		
 		<template id="dashboard.html">
-		  <ons-page>
+		  <ons-page id="dashboard">
 			<ons-toolbar>
 			  <div class="left">
 				<ons-toolbar-button onclick="fn.open()">
@@ -105,7 +105,7 @@
 			  
 			</ons-toolbar>
 			
-			<div id="map_canvas">
+			<div id="map_canvas" class="background">
 				<p> map goes here </p>
 			  </div>
 		  </ons-page>
