@@ -41,10 +41,26 @@ var login = function() {
 };
 
 function createMap() {
-
-  var div = document.getElementById("map_canvas");
- 
-  // Initialize the map view
-  var map = plugin.google.maps.Map.getMap(div);
- 
-};
+	var div = document.getElementById("map_canvas");
+	if (typeof plugin != "undefined") {
+		var map = plugin.google.maps.Map.getMap(div, {
+		  'mapType': plugin.google.maps.MapTypeId.ROADMAP,
+		  'camera' : {
+			target: {
+			  lat: 37.317646, 
+			  lng: -122.000404
+			},
+			zoom: 10
+		  },
+		});
+		map.addEventListener(plugin.google.maps.event.MAP_READY, onMapReady);
+	}
+	else {
+		var mapOptions = {
+			center: {lat: 37.317646, lng: -122.000404},
+			zoom: 8
+		};
+		map = new google.maps.Map(div, mapOptions);
+		google.maps.event.addListener(map,'tilesloaded', onMapReady);
+	}
+}
