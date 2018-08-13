@@ -4,17 +4,10 @@
   "displayName": "barcode",
   "cordova": {
     "platforms": [
-      "android"
+      "android",
+      "browser"
     ],
     "plugins": {
-      "phonegap-plugin-barcodescanner": {
-        "ANDROID_SUPPORT_V4_VERSION": "27.+"
-      },
-      "cordova-plugin-googlemaps": {
-        "API_KEY_FOR_ANDROID": "AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8",
-        "PLAY_SERVICES_VERSION": "15.0.1",
-        "ANDROID_SUPPORT_V4_VERSION": "27.+"
-      },
       "cordova-plugin-battery-status": {},
       "cordova-plugin-camera": {},
       "cordova-plugin-media-capture": {},
@@ -25,25 +18,36 @@
       "cordova-plugin-globalization": {},
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-network-information": {},
-      "cordova-plugin-vibration": {}
+      "cordova-plugin-vibration": {},
+      "cordova-plugin-whitelist": {},
+      "phonegap-plugin-barcodescanner": {
+        "ANDROID_SUPPORT_V4_VERSION": "27.+"
+      },
+      "cordova-plugin-googlemaps": {
+        "API_KEY_FOR_ANDROID": "AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8",
+        "PLAY_SERVICES_VERSION": "15.0.1",
+        "ANDROID_SUPPORT_V4_VERSION": "27.+"
+      }
     }
   },
   "dependencies": {
     "cordova-android": "^7.0.0",
-    "cordova-plugin-googlemaps": "^2.3.10",
-    "minimist": "^1.2.0",
-    "phonegap-plugin-barcodescanner": "^8.0.0",
-    "xml2js": "^0.4.19",
+    "cordova-browser": "^5.0.4",
     "cordova-plugin-battery-status": "~1.2.4",
     "cordova-plugin-camera": "~2.4.1",
-    "cordova-plugin-media-capture": "~1.4.3",
     "cordova-plugin-device": "~1.1.6",
     "cordova-plugin-dialogs": "~1.3.3",
     "cordova-plugin-file": "~4.3.3",
     "cordova-plugin-geolocation": "~2.4.3",
     "cordova-plugin-globalization": "~1.0.7",
+    "cordova-plugin-googlemaps": "^2.3.10",
     "cordova-plugin-inappbrowser": "~1.7.1",
+    "cordova-plugin-media-capture": "~1.4.3",
     "cordova-plugin-network-information": "~1.3.3",
-    "cordova-plugin-vibration": "~2.1.5"
+    "cordova-plugin-vibration": "~2.1.5",
+    "cordova-plugin-whitelist": "^1.3.3",
+    "minimist": "^1.2.0",
+    "phonegap-plugin-barcodescanner": "^8.0.0",
+    "xml2js": "^0.4.19"
   }
 }

@@ -1,1 +1,1 @@
-[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":10000},"path":"AndroidManifest.xml","properties":{"packageId":"com.rfxcel.emapp","split":"","minSdkVersion":"24"}}]
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":10000},"path":"AndroidManifest.xml","properties":{"packageId":"com.rfxcel.emapp","split":"","minSdkVersion":"19"}}]

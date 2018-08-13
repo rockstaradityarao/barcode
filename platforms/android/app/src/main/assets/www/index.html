@@ -10,9 +10,11 @@
 		<link rel="stylesheet" href="css/onsenui.css">
 		<link rel="stylesheet" href="css/onsen-css-components.css">
 		
+		<script src="js/jquery-3.3.1.min.js"></script>
  		<script type="text/javascript" src="cordova.js"></script>
 		<script src="js/onsenui.js"></script>
-        <script type="text/javascript" src="js/app.js"></script>
+        <script type="text/javascript" src="js/scan.js"></script>
+		<script type="text/javascript" src="js/service.js"></script>
 		<script type="text/javascript" src="js/index.js"></script>
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8"></script>
     </head>
@@ -22,14 +24,14 @@
 		  <ons-splitter-side id="menu" side="left" width="220px" collapse swipeable>
 			<ons-page>
 			  <ons-list>
+				<ons-list-item onclick="fn.load('dashboard.html')" tappable>
+				  Dashboard
+				</ons-list-item>
 				<ons-list-item onclick="fn.load('associate.html')" tappable>
 				  Associate
 				</ons-list-item>
 				<ons-list-item onclick="fn.load('settings.html')" tappable>
 				  Disassociate
-				</ons-list-item>
-				<ons-list-item onclick="fn.load('dashboard.html')" tappable>
-				  Dashboard
 				</ons-list-item>
 				<ons-list-item onclick="fn.load('alerts.html')" tappable>
 				  Alerts
@@ -42,7 +44,9 @@
 		
 		<template id="splashscreen.html">
 			<ons-page id="splash">
-				<img src="img/logo.png">
+			 <ons-card>
+				<img src="img/logo.png" alt="Environmental Monitoring" style="width: 100%;">
+			 </ons-card>				
 			</ons-page>
 		</template>
 		
@@ -56,7 +60,7 @@
 				  <ons-input id="password" modifier="underbar" type="password" placeholder="Password" float></ons-input>
 				</p>
 				<p style="margin-top: 30px;">
-				  <ons-button onclick="login()">Sign in</ons-button>
+				  <ons-button onclick="service.fn.login()">Sign in</ons-button>
 				</p>
 			  </div>
 			</ons-page>
@@ -75,6 +79,12 @@
 			  </div>
 			</ons-toolbar>
 			<ons-button onclick="startScan(this);">Scan Device</ons-button>
+			<ons-list id="alertlist">
+				<ons-list-item>PRODUCT:</ons-list-item>
+				<ons-list-item id="scanProduct"></ons-list-item>
+				<ons-list-item>DEVICE:</ons-list-item>
+				<ons-list-item id="scanDevice"></ons-list-item>
+			</ons-list>
 		  </ons-page>
 		</template>
 
@@ -112,7 +122,7 @@
 		</template>
 		
 		<template id="alerts.html">
-		  <ons-page>
+		  <ons-page id="alerts">
 			<ons-toolbar>
 			  <div class="left">
 				<ons-toolbar-button onclick="fn.open()">
@@ -123,11 +133,9 @@
 				Alerts
 			  </div>
 			</ons-toolbar>
-				<ons-list>
-					<ons-list-item>Alert 1</ons-list-item>
-					<ons-list-item>Alert 2</ons-list-item>
+				<ons-list id="alertlist">
 				</ons-list>
-			</ons-page>
+		  </ons-page>
 		</template>
 	
         

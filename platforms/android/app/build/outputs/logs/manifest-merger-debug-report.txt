@@ -124,9 +124,9 @@ ADDED from C:\githome\barcode\platforms\android\app\src\main\AndroidManifest.xml
 	android:name
 		ADDED from C:\githome\barcode\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\githome\barcode\platforms\android\app\src\main\AndroidManifest.xml:15:9-106
+ADDED from C:\githome\barcode\platforms\android\app\src\main\AndroidManifest.xml:15:9-124
 	android:value
-		ADDED from C:\githome\barcode\platforms\android\app\src\main\AndroidManifest.xml:15:66-103
+		ADDED from C:\githome\barcode\platforms\android\app\src\main\AndroidManifest.xml:15:66-121
 	android:name
 		ADDED from C:\githome\barcode\platforms\android\app\src\main\AndroidManifest.xml:15:20-65
 meta-data#com.google.android.gms.version

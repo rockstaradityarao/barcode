@@ -1,27 +1,26 @@
 {
-  "_from": "cordova-plugin-googlemaps",
+  "_from": "cordova-plugin-googlemaps@^2.3.10",
   "_id": "cordova-plugin-googlemaps@2.3.10",
   "_inBundle": false,
   "_integrity": "sha512-g8xX99P8KYM1FttX3Ha40c3WlhR/ZCGuuGAIvf9qR42brINcopuirXlLpiC4c4HfTQ22iL73CYsdaq7WFMhaUg==",
   "_location": "/cordova-plugin-googlemaps",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "range",
     "registry": true,
-    "raw": "cordova-plugin-googlemaps",
+    "raw": "cordova-plugin-googlemaps@^2.3.10",
     "name": "cordova-plugin-googlemaps",
     "escapedName": "cordova-plugin-googlemaps",
-    "rawSpec": "",
+    "rawSpec": "^2.3.10",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "^2.3.10"
   },
   "_requiredBy": [
-    "#USER",
-    "/"
+    "#USER"
   ],
   "_resolved": "https://registry.npmjs.org/cordova-plugin-googlemaps/-/cordova-plugin-googlemaps-2.3.10.tgz",
   "_shasum": "4275f59ecbbbf4ea8baf73b9c53b978203c1baba",
-  "_spec": "cordova-plugin-googlemaps",
+  "_spec": "cordova-plugin-googlemaps@^2.3.10",
   "_where": "C:\\githome\\barcode",
   "author": {
     "name": "Masashi Katsumata, Hirbod Mirjavadi"
