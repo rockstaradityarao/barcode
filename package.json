@@ -1,14 +1,20 @@
 {
-  "name": "com.phonegap.helloworld",
+  "name": "com.rfxcel.emapp",
   "version": "1.0.0",
-  "displayName": "helloworld",
+  "displayName": "barcode",
   "cordova": {
     "platforms": [
-      "android",
-      "browser"
+      "android"
     ],
     "plugins": {
-      "phonegap-plugin-barcodescanner": {},
+      "phonegap-plugin-barcodescanner": {
+        "ANDROID_SUPPORT_V4_VERSION": "27.+"
+      },
+      "cordova-plugin-googlemaps": {
+        "API_KEY_FOR_ANDROID": "AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8",
+        "PLAY_SERVICES_VERSION": "15.0.1",
+        "ANDROID_SUPPORT_V4_VERSION": "27.+"
+      },
       "cordova-plugin-battery-status": {},
       "cordova-plugin-camera": {},
       "cordova-plugin-media-capture": {},
@@ -19,30 +25,25 @@
       "cordova-plugin-globalization": {},
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-network-information": {},
-      "cordova-plugin-vibration": {},
-      "cordova-plugin-googlemaps": {
-        "API_KEY_FOR_ANDROID": "AIzaSyCByN69B_8jPKGCxQtccS6S1_xddepE2T8",
-        "PLAY_SERVICES_VERSION": "15.0.1",
-        "ANDROID_SUPPORT_V4_VERSION": "26.1.0"
-      }
+      "cordova-plugin-vibration": {}
     }
   },
   "dependencies": {
     "cordova-android": "^7.0.0",
-    "cordova-browser": "^5.0.3",
+    "cordova-plugin-googlemaps": "^2.3.10",
+    "minimist": "^1.2.0",
+    "phonegap-plugin-barcodescanner": "^8.0.0",
+    "xml2js": "^0.4.19",
     "cordova-plugin-battery-status": "~1.2.4",
     "cordova-plugin-camera": "~2.4.1",
+    "cordova-plugin-media-capture": "~1.4.3",
     "cordova-plugin-device": "~1.1.6",
     "cordova-plugin-dialogs": "~1.3.3",
     "cordova-plugin-file": "~4.3.3",
     "cordova-plugin-geolocation": "~2.4.3",
     "cordova-plugin-globalization": "~1.0.7",
-    "cordova-plugin-googlemaps": "^2.3.8",
     "cordova-plugin-inappbrowser": "~1.7.1",
-    "cordova-plugin-media-capture": "~1.4.3",
     "cordova-plugin-network-information": "~1.3.3",
-    "cordova-plugin-vibration": "~2.1.5",
-    "minimist": "^1.2.0",
-    "xml2js": "^0.4.19"
+    "cordova-plugin-vibration": "~2.1.5"
   }
 }

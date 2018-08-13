@@ -1,0 +1,5 @@
+package com.rfxcel.em.server;
+
+public class GreetingController {
+
+}

@@ -1,247 +1,183 @@
 [
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
-    },
-    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi_capture.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout-ldpi\\capture.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_remove.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_remove.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_screen.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\screen.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher_icon.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable-xhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_icon.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\xml\\provider_paths.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_share.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\share.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents_header.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\search_book_contents_header.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xhdpi_screen.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_previous_item.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_previous_item.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media_custom.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xhdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dummy_my_location_button.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable\\dummy_my_location_button.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_share.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout-land\\share.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi_screen.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-mdpi\\screen.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
     },
     {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
+    },
+    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents_list_item.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\search_book_contents_list_item.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher_icon.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable-hdpi\\launcher_icon.png"
     },
     {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dummy_infowindow.xml.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\layout\\dummy_infowindow.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\color\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_previous_item.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_previous_item.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_next_item.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_encode.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\menu\\encode.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher_icon.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\drawable-xhdpi\\launcher_icon.png"
-    },
-    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_via_barcode.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable\\share_via_barcode.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -252,56 +188,60 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_remove.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents_list_item.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\search_book_contents_list_item.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_capture.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\menu\\capture.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\help.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_screen.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-mdpi\\screen.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -320,28 +260,40 @@
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_picker_list_item.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\app_picker_list_item.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_next_item.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_action.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -356,32 +308,48 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v16\\notification_template_custom_big.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\raw\\beep.ogg"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_share.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\share.xml"
     },
     {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_encode.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout-land\\encode.xml"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_list_item.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\history_list_item.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\help.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_picker_list_item.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\app_picker_list_item.xml"
+    },
+    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_previous_item.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_launcher_icon.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable\\launcher_icon.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -392,32 +360,32 @@
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_previous_item.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
+    },
+    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\search_book_contents.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents_header.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\search_book_contents_header.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_encode.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\encode.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flip_camera.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable\\flip_camera.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
@@ -428,40 +396,40 @@
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable\\dummy_mylocation_button_shadow.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_remove.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_next_item.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_action.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\xml\\preferences.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookmark_picker_list_item.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\bookmark_picker_list_item.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -474,6 +442,10 @@
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi_screen.png.flat",
@@ -496,16 +468,12 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle_torch.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable\\toggle_torch.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_capture.xml.flat",
@@ -516,584 +484,24 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi_screen.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
-    },
-    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle_torch.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\drawable\\toggle_torch.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-ldpi\\screen.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\xml\\provider_paths.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_history.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\menu\\history.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_previous_item.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher_icon.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\drawable-hdpi\\launcher_icon.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_remove.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_remove.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_icon.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher_icon.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable-xhdpi\\launcher_icon.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v16\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_next_item.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_remove.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dummy_my_location_button.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable\\dummy_my_location_button.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dummy_my_location_button.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable\\dummy_my_location_button.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\xml\\preferences.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\raw\\beep.ogg"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_encode.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\menu\\encode.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\search_book_contents.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_capture.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\capture.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dummy_infowindow.xml.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\layout\\dummy_infowindow.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_next_item.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_next_item.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\color\\common_google_signin_btn_tint.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dummy_mylocation_button_shadow.xml.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable\\dummy_mylocation_button_shadow.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\help.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_screen.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_history.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\menu\\history.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flip_camera.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\drawable\\flip_camera.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_next_item.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_next_item.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_next_item.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_next_item.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\color\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\raw\\beep.ogg"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_encode.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout-land\\encode.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_picker_list_item.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\app_picker_list_item.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_launcher_icon.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable\\launcher_icon.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_list_item.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout\\history_list_item.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_next_item.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_remove.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_remove.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents_header.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\layout\\search_book_contents_header.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_next_item.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flip_camera.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable\\flip_camera.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\color\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_next_item.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_next_item.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launcher_icon.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\drawable-xxhdpi\\launcher_icon.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\xml\\preferences.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\15c96c18b6ea93b739917a1537394b76\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_share.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout-land\\share.xml"
-    },
-    {
-        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
-        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_icon.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_launcher_icon.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\drawable\\launcher_icon.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi_screen.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_previous_item.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_encode.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout-land\\encode.xml"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi_screen.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launcher_icon.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\drawable-xxhdpi\\launcher_icon.png"
     },
     {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_previous_item.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_previous_item.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
-        "source": "C:\\test\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_capture.xml.flat",
@@ -1102,14 +510,6 @@
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_remove.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_via_barcode.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\drawable\\share_via_barcode.png"
-    },
-    {
-        "merged": "C:\\test\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi_capture.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\82d79518a7e4e8aef5deccaec56fabaa\\res\\layout-ldpi\\capture.xml"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookmark_picker_list_item.xml.flat",
@@ -1124,8 +524,20 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_history.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\5ee8d6523c4d5e59ac059d2de29891f1\\res\\menu\\history.xml"
+    },
+    {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\3d6c6c877c9cb339464223b152732814\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
     },
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
@@ -1134,5 +546,9 @@
     {
         "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi_screen.png.flat",
         "source": "C:\\githome\\barcode\\platforms\\android\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\githome\\barcode\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d3356eeed2539d32baee2118cad61b80\\res\\drawable\\notification_bg_low.xml"
     }
 ]

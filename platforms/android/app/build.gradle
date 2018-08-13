@@ -91,8 +91,8 @@ ext {
 }
 
 // PLUGIN GRADLE EXTENSIONS START
-apply from: "../phonegap-plugin-barcodescanner/helloworld-barcodescanner.gradle"
-apply from: "../cordova-plugin-googlemaps/helloworld-tbxml-android.gradle"
+apply from: "../cordova-plugin-googlemaps/emapp-tbxml-android.gradle"
+apply from: "../phonegap-plugin-barcodescanner/emapp-barcodescanner.gradle"
 // PLUGIN GRADLE EXTENSIONS END
 
 def hasBuildExtras = file('build-extras.gradle').exists()
@@ -262,10 +262,10 @@ dependencies {
     // SUB-PROJECT DEPENDENCIES START
     implementation(project(path: ":CordovaLib"))
     compile "com.android.support:support-v4:24.1.1+"
-    compile "com.android.support:support-v4:27.+"
     compile "com.google.android.gms:play-services-maps:15.0.1"
     compile "com.google.android.gms:play-services-location:15.0.1"
-    compile "com.android.support:support-core-utils:26.1.0"
+    compile "com.android.support:support-core-utils:27.+"
+    compile "com.android.support:support-v4:27.+"
     // SUB-PROJECT DEPENDENCIES END
 }
 
