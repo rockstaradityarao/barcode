@@ -73,7 +73,7 @@ var mapData;
 function createMap(p) {
 	mapData = p;
 	var div = document.getElementById("map_canvas");
-	if (typeof plugin != "undefined") {
+	if (typeof plugin != "undefined") {//android or ios
 		map = plugin.google.maps.Map.getMap(div, {
 		  'mapType': plugin.google.maps.MapTypeId.ROADMAP,
 		  'camera' : {
@@ -83,7 +83,7 @@ function createMap(p) {
 		});
 		map.addEventListener(plugin.google.maps.event.MAP_READY, onMapReady);
 	}
-	else {
+	else {//browser
 		var mapOptions = {
 			center: mapData.center,
 			zoom: mapData.zoom
